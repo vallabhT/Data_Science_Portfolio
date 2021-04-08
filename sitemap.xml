@@ -7,8 +7,73 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://vallabht.github.io/Data_Science_Portfolio/post/project-3/</loc>
+    <loc>https://vallabht.github.io/Data_Science_Portfolio/tags/logistic-regression/</loc>
     <lastmod>2020-11-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vallabht.github.io/Data_Science_Portfolio/tags/powerbi/</loc>
+    <lastmod>2020-11-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vallabht.github.io/Data_Science_Portfolio/post/project-6/</loc>
+    <lastmod>2020-11-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vallabht.github.io/Data_Science_Portfolio/tags/randomforest/</loc>
+    <lastmod>2020-11-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vallabht.github.io/Data_Science_Portfolio/tags/</loc>
+    <lastmod>2020-11-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vallabht.github.io/Data_Science_Portfolio/post/project-5/</loc>
+    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vallabht.github.io/Data_Science_Portfolio/tags/spatial-analytics/</loc>
+    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vallabht.github.io/Data_Science_Portfolio/tags/tableau/</loc>
+    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vallabht.github.io/Data_Science_Portfolio/post/project-4/</loc>
+    <lastmod>2020-04-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vallabht.github.io/Data_Science_Portfolio/tags/nlp/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vallabht.github.io/Data_Science_Portfolio/post/project-3/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vallabht.github.io/Data_Science_Portfolio/tags/python/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vallabht.github.io/Data_Science_Portfolio/tags/text-classification/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vallabht.github.io/Data_Science_Portfolio/tags/neural-networks/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -17,7 +82,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://vallabht.github.io/Data_Science_Portfolio/tags/bigdata/</loc>
+    <lastmod>2019-05-15T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vallabht.github.io/Data_Science_Portfolio/tags/cloud-computing/</loc>
+    <lastmod>2019-05-15T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://vallabht.github.io/Data_Science_Portfolio/post/project-1/</loc>
+    <lastmod>2019-05-15T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vallabht.github.io/Data_Science_Portfolio/tags/twitter/</loc>
     <lastmod>2019-05-15T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -39,7 +119,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://vallabht.github.io/Data_Science_Portfolio/tags/</loc>
+    <loc>https://vallabht.github.io/Data_Science_Portfolio/skills/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

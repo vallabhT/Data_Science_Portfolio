@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tableau on Sri Vallabh Tiwari</title>
+    <link>https://vallabht.github.io/Data_Science_Portfolio/tags/tableau/</link>
+    <description>Recent content in Tableau on Sri Vallabh Tiwari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vallabht.github.io/Data_Science_Portfolio/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 5: Let&#39;s Park Melbourne!</title>
+      <link>https://vallabht.github.io/Data_Science_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vallabht.github.io/Data_Science_Portfolio/post/project-5/</guid>
+      <description>The aim of the project was to produce an interactive interfact that could help local citizens that commute to the CBD. Built a Tableau dashboard that could help the commuters identify the available on-street parking spots that are available for use in the city in real time. The interface also consist of two more dashboards that provide historical data about each on-street parking spots and also helps the user to predict the availablity of the spots.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Traffic Collisions in Victoria</title>
+      <link>https://vallabht.github.io/Data_Science_Portfolio/post/project-4/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vallabht.github.io/Data_Science_Portfolio/post/project-4/</guid>
+      <description>The aim of the analysis was to build a dashboard that can help VicRoads to identify different patterns that have been persistent in the traffic accidents that have taken place in the last 6 years. The dashboard that I built helps us identify the social crash cost of accidents at different locations, varieties of the road geomerty and the attmospheric conditions that affect the causation of an accident. There were over 9 datasets used in analysis.</description>
+    </item>
+    
+  </channel>
+</rss>

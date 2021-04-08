@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP on Sri Vallabh Tiwari</title>
+    <link>https://vallabht.github.io/Data_Science_Portfolio/tags/nlp/</link>
+    <description>Recent content in NLP on Sri Vallabh Tiwari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://vallabht.github.io/Data_Science_Portfolio/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: Who Tweeted That?</title>
+      <link>https://vallabht.github.io/Data_Science_Portfolio/post/project-3/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vallabht.github.io/Data_Science_Portfolio/post/project-3/</guid>
+      <description>The goal of the project was to develope a machine learning model that can predict the author of a tweet from the given training tweets. I built a multiclass classification model based on different text classifiers, that uses the newly engineered features based on the textual data. The features were lexical features, syntatical features, and content specific features. Doc2Vec was a part of feature engineering. Model selection was done based on the time it took to train the model and the one with the best trade-off between bias and variance.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Automatic Fact Verification</title>
+      <link>https://vallabht.github.io/Data_Science_Portfolio/post/project-2/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vallabht.github.io/Data_Science_Portfolio/post/project-2/</guid>
+      <description>Build a fact verification system that automatically validates whether a claim is true, false, or unverifiable based on the information in the given text corpus. Built a NLP model, that reads in the whole text corpus and preprocesses it and generates a TF-IDF matrix of the corpus. Cosine Similarity is used on the TF-IDF matrix to identify similar statements and query them. Text classification is performed by using ULMFiT, which is a pre-trained language model.</description>
+    </item>
+    
+  </channel>
+</rss>

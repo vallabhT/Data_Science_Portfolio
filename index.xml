@@ -8,12 +8,39 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vallabht.github.io/Data_Science_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 3: An in-depth analysis on the Domestic Student Market</title>
-      <link>https://vallabht.github.io/Data_Science_Portfolio/post/project-3/</link>
+      <title>Project 6: An in-depth analysis on the Domestic Student Market</title>
+      <link>https://vallabht.github.io/Data_Science_Portfolio/post/project-6/</link>
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://vallabht.github.io/Data_Science_Portfolio/post/project-3/</guid>
+      <guid>https://vallabht.github.io/Data_Science_Portfolio/post/project-6/</guid>
       <description>Objective: The goal of the project was to utilise the dataset to identify the market share of The University of Melbourne, predictive modelling on the application data to estimate the student enrolment rate and inferring the factors that are responsible for the enrolment rate. The dataset was a large excel file which had over 450,000 rows and 350 columns. It had de-identified data on the offer to enrolment outcomes of students who applied together with their demographic data via the Victorian Tertiary Admission Centre (VTAC) for the undergraduate programs for the last 5 years.</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Let&#39;s Park Melbourne!</title>
+      <link>https://vallabht.github.io/Data_Science_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vallabht.github.io/Data_Science_Portfolio/post/project-5/</guid>
+      <description>The aim of the project was to produce an interactive interfact that could help local citizens that commute to the CBD. Built a Tableau dashboard that could help the commuters identify the available on-street parking spots that are available for use in the city in real time. The interface also consist of two more dashboards that provide historical data about each on-street parking spots and also helps the user to predict the availablity of the spots.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Traffic Collisions in Victoria</title>
+      <link>https://vallabht.github.io/Data_Science_Portfolio/post/project-4/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vallabht.github.io/Data_Science_Portfolio/post/project-4/</guid>
+      <description>The aim of the analysis was to build a dashboard that can help VicRoads to identify different patterns that have been persistent in the traffic accidents that have taken place in the last 6 years. The dashboard that I built helps us identify the social crash cost of accidents at different locations, varieties of the road geomerty and the attmospheric conditions that affect the causation of an accident. There were over 9 datasets used in analysis.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Who Tweeted That?</title>
+      <link>https://vallabht.github.io/Data_Science_Portfolio/post/project-3/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vallabht.github.io/Data_Science_Portfolio/post/project-3/</guid>
+      <description>The goal of the project was to develope a machine learning model that can predict the author of a tweet from the given training tweets. I built a multiclass classification model based on different text classifiers, that uses the newly engineered features based on the textual data. The features were lexical features, syntatical features, and content specific features. Doc2Vec was a part of feature engineering. Model selection was done based on the time it took to train the model and the one with the best trade-off between bias and variance.</description>
     </item>
     
     <item>
@@ -42,6 +69,17 @@
       <guid>https://vallabht.github.io/Data_Science_Portfolio/contact/</guid>
       <description>Follow me on these social media platforms.
    Platform URL     Twitter: https://twitter.com/tiwari_vallabh   LinkedIn: https://www.linkedin.com/in/vallabht/   GitHub: https://github.com/vallabhT    </description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://vallabht.github.io/Data_Science_Portfolio/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vallabht.github.io/Data_Science_Portfolio/skills/</guid>
+      <description>Programming Languages
+ Python (Libraries used - Pandas, NumPy, TensorFlow, Scikit learn, Matplotlib, Seaborn) R (Libraries used - TidyVerse, Caret, randomForest, ggplot2, Wordcloud, e1071)  Tools and Technologies
+ Big data cloud computing platforms such as Amazon Web Services (AWS), Google Cloud Platform (GCP) and Unimelb&amp;rsquo;s Spartan Visualisation tools such as Tableau, PowerBi, and ArcGis Data manipulation and wrangling tools such as Excel, Tableau Prep Builder, SQL and NoSQL Version Control - GitHub  Non-technical skills</description>
     </item>
     
   </channel>

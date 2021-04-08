@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Sri Vallabh Tiwari</title>
+    <link>https://vallabht.github.io/Data_Science_Portfolio/tags/python/</link>
+    <description>Recent content in Python on Sri Vallabh Tiwari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://vallabht.github.io/Data_Science_Portfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: Who Tweeted That?</title>
+      <link>https://vallabht.github.io/Data_Science_Portfolio/post/project-3/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vallabht.github.io/Data_Science_Portfolio/post/project-3/</guid>
+      <description>The goal of the project was to develope a machine learning model that can predict the author of a tweet from the given training tweets. I built a multiclass classification model based on different text classifiers, that uses the newly engineered features based on the textual data. The features were lexical features, syntatical features, and content specific features. Doc2Vec was a part of feature engineering. Model selection was done based on the time it took to train the model and the one with the best trade-off between bias and variance.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: The Seven Deadly Sins</title>
+      <link>https://vallabht.github.io/Data_Science_Portfolio/post/project-1/</link>
+      <pubDate>Wed, 15 May 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://vallabht.github.io/Data_Science_Portfolio/post/project-1/</guid>
+      <description>Implementation of a cloud-based system that contains - Twitter harvesting application that can harvest tweets from major cities of Australia, a NoSQL database that stores the tweets and a frontend web application that can be used to visualise the scenarios of choice. Developed a Twitter harvester that harvests tweets from Melbourne and Sydney, that filters tweets based on given keywords, pre-processes them, performs sentiment analysis and stores these tweets in the CouchDB database.</description>
+    </item>
+    
+  </channel>
+</rss>
